@@ -4,4 +4,9 @@ const hello = () => {
   // TODO:
 };
 
-if (hello) window.console.log(true);
+class Test {
+  #mem1;
+
+  #mem2;
+
+}
