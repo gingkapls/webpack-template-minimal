@@ -5,7 +5,7 @@ const hello = () => {
 };
 
 class Test {
-  #mem1;
+    #mem1;
 
   #mem2;
 
